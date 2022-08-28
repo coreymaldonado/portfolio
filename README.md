@@ -3,7 +3,7 @@ My portfolio site to showcase my projects and what I'm currently working on
 
 https://untolddawn.netlify.app/
 
-![My Portfolio Image](https://i.ibb.co/sKwpCq8/Portfolio2.png)
+![My Portfolio Image](https://i.ibb.co/QkbWZgV/Portfolio2.png)
 
 ## How It's Made:
 
